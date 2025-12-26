@@ -28,3 +28,6 @@ build/
 # Sistema operacional
 .DS_Store
 Thumbs.db
+
+# Ignorar arquivos pessoais
+devlog.md

@@ -8,7 +8,8 @@ DATA_BASE_URL: mongodb+srv://viajejabrazil_db_user:9R0pYzMDytlHr5Oq@cluster0.uoe
 
 ###
 
-Iniciando dia 24/12/2025.
+###
+Docker
 
-Dia 1:
-- Configurações iniciais.
+POSTGRES_USER=admin
+POSTGRES_PASSWORD=123456
